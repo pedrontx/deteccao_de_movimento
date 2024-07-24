@@ -1,4 +1,4 @@
-# DETECÇÃO DE MOVIMENTO 
+# DETECÇÃO DE MOVIMENTO 🕵️‍♀️
 
 ## Como usar 
 ### 1º crie um ambiente virtua em sua maquina, você pode utilizar o " python -m venv (nome para o ambiente) "
